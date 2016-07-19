@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    1. Can zoom into the specific areas of codes where lines have been changed quickly.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    1. Can restore versions of code done previously easily
+    2. does not need to store multiple files for backup
+    3. Can iterate on codes
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    1. Pro - Can make logical saves so it makes sense to me, so i can label that change.
+    Breakdown big changes to smaller chunks for easier code diff.
+    Learn to think more modularly and plan.
+    2. Con - Might forget to save. Could save too much at one time to be helpful
+     If underestimate the task, the person will have to code for longer hours before
+    committing a logical change.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git - the mental mode of coding, is tied more to a feature, logical point, where different
+    files can be changed / updated to make that save more meaningful.
+
+    Google Docs - mental modal of editing is on one file, one view at a single period of time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Log - allows you to view when the file is changed since beginning of the file.
+    Diff - allows you to view the difference between 2 version of the same file. (eg. new vs old)
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Can undo change with just one command line.
+    The codes are already backed up.
+    The system helps to keep track of the working version when developer commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For web development and learning.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    When reviewing, I can see the changes and learn from my mistakes.
+    I can see the time wasted on errors, and try not to repeat.
