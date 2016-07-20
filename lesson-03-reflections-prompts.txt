@@ -1,29 +1,44 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    When there are other people sharing the same set of codes in a codebase.
+    A group of people located all over the world accessing the same set of codebase
+    Online backup of codes (free!)
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    I can choose what to merge with my working repor (main product) while
+    working off on many other remotes.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fork - making a clone of a remote repository into my own remote repository.
+    Good for working off other codebases and making my own code changes thereafter.
+
+    Clone - Duplicating a repository into my own. Can be remote or offline.
+    Making a copy of the code whenever needed offline.
+
+    Branch - Making a replica of my current commit to work on. can be remote /offline.
+    TO work off the current codes on other features without affecting current codes.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Have the latest stable state of the copy. Lesser lines of code for merging.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Via email, and sending of lines of codes if it's just one line and send file if it's multiple files.
+    CC the whole team if many people.
+    If within small and tight team, it's easier to share the files quickly via dropbox.
+    If large teams with people working in different timezones, GitHub is better to keep track neatly.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Separate branch - fix bugs, new features, new enhancement etc
+    Benefits -> to verirfy the bugs first before commitment (can ufinity point to the github for bugs verification?)
+    New features --> same, test first
