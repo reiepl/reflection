@@ -31,5 +31,9 @@ the diagram the way we do?
     Joining different pieces of logical saves into 1 branch. To update the master.
     because it's 2 into 1 “new branch"
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+    Pros: It's done for me.
+    Cons: When there is a conflict, i may not know what to do especially when code is not mine.
+    
