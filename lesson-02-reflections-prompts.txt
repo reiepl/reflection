@@ -11,14 +11,25 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+    By checking with the current commit, and current files.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+    Experiment with new features
+    Experiment with refactoring of code
+    Different people / team working on different parts of the code.
+
 How do the diagrams help you visualize the branch structure?
+
+    To see which branches are not affected or affected
+    To see what features can be merged
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+    Joining different pieces of logical saves into 1 branch. To update the master.
+    because it's 2 into 1 “new branch"
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
